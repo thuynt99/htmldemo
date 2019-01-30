@@ -1,0 +1,17 @@
+.heading{
+    position: fixed;
+    right :0px;
+    align-items: center;
+}
+.date{
+    position: relative;
+    color: red;
+}
+.table1{
+   
+    align-items: center;
+    border: 1cm;
+    background-origin: border-box;
+    border-color: tomato;
+    background-color: aquamarine;
+}
